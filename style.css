@@ -1,0 +1,52 @@
+.container{
+    margin-bottom: 100px;
+
+}
+.image{
+    width: 70%;
+}
+.carousel-bg{
+    background-color: #feeae9;
+    border-radius: 20px;
+}
+.carousel-item{
+    padding: 20px 130px;
+}
+.price{
+    color: orangered;
+}
+.bag,.shoes,.watch{
+    padding: 20px 40px;
+    color: aliceblue;
+    height: 130px;
+}
+.watch{
+    background-color: blueviolet;
+    border-radius: 20px;
+}
+.shoes{
+    background-color: rgb(122, 38, 38);
+    border-radius: 20px;
+}
+.bag{
+    background-color: orange;
+    border-radius: 20px;
+}
+.box{
+    width: 400px;
+}
+.card{
+    border: 0;
+    box-shadow: 5px 5px 10px rgb(151, 149, 149);
+
+}
+.btn-clr{
+    background-color: orchid;
+    border: none;
+}
+.bag-card{
+    height: 600px;
+}
+#subcribe{
+    height: 300px;
+}
